@@ -1,4 +1,4 @@
-# Chat width Nedobot
+# Chat with Nedobot
 Made on Pure JavaScript
 It is a new version of "Virtual Messaenger"
 
