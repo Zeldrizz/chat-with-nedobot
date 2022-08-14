@@ -1,0 +1,66 @@
+@media (max-width: 1400px) {
+    .phone {
+        width: 30%;
+    }
+}
+
+@media (max-width: 1200px) {
+    .user__message {
+        margin-left: 190px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .phone {
+        width: 35%;
+    }
+    .user__message {
+        margin-left: 160px;
+    }
+}
+
+@media (max-width: 800px) {
+    .phone {
+        width: 40%;
+        margin-top: 0;
+    }
+    .user__message {
+        margin-left: 150px;
+    }
+    
+    .phone__screen {
+        height: 450px;
+    }
+
+    .user__message{
+        font-size: 13px;
+    }
+
+    .bot__message{
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 600px) {
+    .phone {
+        width: 55%;
+        margin-top: 0;
+    }
+}
+
+@media (max-width: 400px) {
+    .phone {
+        width: 75%;
+        margin-top: 0;
+    }
+}
+
+@media (max-width: 320px) {
+    .phone {
+        width: 95%;
+        margin-top: 0;
+    }
+    .user__message {
+        margin-left: 160px;
+    }
+}
